@@ -8,4 +8,4 @@
 * Demo: https://virtual-keyboard-app.netlify.app/
 * Время выполнения: 8 часов
 
-* моя работа:
+* моя работа: https://enigmer2.github.io/Task-11.-Virtual-Keyboard/
